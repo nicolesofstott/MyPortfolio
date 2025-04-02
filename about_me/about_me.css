@@ -58,24 +58,6 @@
 
 /* Footer */
 footer {
-  text-align: center;
-  margin-top: 60px;
-  padding: 30px 20px;
-  background-color: #f9f9f9;
-  font-size: 0.9rem;
-  color: #555;
+  position: relative;
 }
 
-.footer-links {
-  margin-bottom: 10px;
-}
-
-.footer-links a {
-  margin: 0 10px;
-  color: #333;
-  text-decoration: none;
-}
-
-.footer-links a:hover {
-  text-decoration: underline;
-}
