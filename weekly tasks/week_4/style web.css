@@ -1,0 +1,77 @@
+body{
+    font-family: caladea;
+    color: rgb(64, 125, 222);
+    background: rgb(246, 151, 43);
+    padding: 2em;
+}
+
+.Title{
+    font-size: 3em;
+    font-family: caladea;
+    color:rgb(64, 125, 222);
+    font-weight:bolder
+}
+
+.text{
+    font-size: 1.5em;
+    color: blueviolet;
+    font-family: caladea;
+    background: rgb(64, 125, 222);
+    padding: 1em;
+}
+
+.links{
+    font-size: 0.75;
+    color: blueviolet;
+    text-decoration: none;
+    font-family: caladea;
+    margin-left: 4em ;
+}
+
+.logos{
+   width: 150px;
+   height: auto;
+   padding: 1em;
+   margin: 0.15em;
+}
+
+.artist{
+    font-size: 0.75;
+    color:rgb(64, 125, 222);
+    text-decoration: none;
+    font-family: caladea;
+    margin-left: 6em ;
+}
+
+.image{
+    width: 150px;
+    height: auto;
+    padding: 1em;
+    margin: 1em;
+    inset-inline: centre;
+}
+
+.head{
+    font-size: 3em;
+    font-family: caladea;
+    color:blueviolet;
+    font-weight:bolder
+}
+
+.body{
+    font-size: 1.5em;
+    color:  rgb(64, 125, 222);
+    font-family: caladea;
+    background: blueviolet;
+    padding: 1em;
+}
+
+.artist:hover{
+    color:blueviolet;
+    font-size: 1.5em;
+}
+
+.links:hover{
+    color:rgb(64, 125, 222);
+    font-size: 1.5em;
+}

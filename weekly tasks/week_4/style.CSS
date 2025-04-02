@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+    color: rgb(64, 125, 222);
+    background: rgb(246, 151, 43);
+    padding: 2em;
+}
+
+/* Equals: 
+h1{
+    font-size: 2em;
+    font-family: sans-serif
+}
+p{
+    font-family:sans-serif
+}
+a{
+    font-family:sans-serif
+} */
+
+h1{
+    font-size: 2em;
+}
+
+.Menu {
+    background-color: rgb(54, 105, 188);
+    padding: 1em;
+}
+
+.Menu a{
+    color: rgb(179, 111, 196);
+    text-decoration: none;
+    margin-right: 1em;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.social-media a {
+    background: rgb(179, 111, 196);
+    color:rgb(54, 105, 188);
+    padding: 1em;
+    text-decoration: none;
+    border-radius: 10px;
+}
